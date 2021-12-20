@@ -1,0 +1,23 @@
+{
+    "name": "sjn",
+    "version": "1.0.0",
+    "description": "String JSON normalizer.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "i2rys",
+        "sjn",
+        "json-normalizer",
+        "string-json-normalizer",
+        "string-json-to-json"
+    ],
+    "repository": "https://github.com/I2rys/SJN",
+    "author": {
+        "name": "I2rys",
+        "email": "i2rys@protonmail.com",
+        "website": "https://i2rys.xyz"
+    },
+    "license": "MIT"
+}
